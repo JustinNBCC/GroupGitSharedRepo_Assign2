@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    max-width: 1350px;
+    background-size: 1350px;
+    background-color: #FFFFFF;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+p {
+    font-size: 1em;
+}
+
+/* 
+to make all pages look similar 
+all pictures should have the same height
+*/
+img {
+    height: 200px; 
+    margin-bottom: 20px;
+} 
